@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/118exam/primer-exam.git"
+    "url": "git+https://github.com/ADSO2696118/examenapi-marinela.git"
   },
   "author": "Marinela",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/118exam/primer-exam/issues"
+    "url": "https://github.com/ADSO2696118/examenapi-marinela.git"
   },
-  "homepage": "https://github.com/118exam/primer-exam#readme",
+  "homepage": "https://github.com/ADSO2696118/examenapi-marinela.git",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
